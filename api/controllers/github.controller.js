@@ -1,4 +1,4 @@
-exports.getReposByuserId = async (req, res) => {
+exports.getReposByUsername = async (req, res) => {
     const userId = req.params.userId;
     const apiToken = process.env.apiToken;
     const queryUrl = `https://api.github.com/users/${userId}/repos`;
