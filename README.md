@@ -11,14 +11,13 @@ There are two ways that programmers track their progress as of now.
 2. Github
 
 ### Github
-You'll see that there are two aspects of tracking, data and visuals. Github is unique with the data. They track commits, commits that can be a part of any project. This data is general, and very flexible. Github lacks with the visuals. The experience trying to see statistics about your repo's is clunky. No cool dashboard, no flashy colors, its boring.
-
+There are two aspects of tracking, what kind of data you present and how you present it. Github does a great job with the data that they present. Their data is very ambiguous, very flexible. Tracking commits means you can track from any kind of project. Hell, you could make a github repo for your Leetcode problems and track your Leetcode progress that way if you wanted to. They win on data right now, but they are in the stone age on visuals. Their dashboard is horrible to use, it isn't pretty, and most of the data is boring anyways.
 ### Leetcode
-Leetcode is the opposite. It's data is domain specific by nature. Why would Leetcode track more than Leetcode problems, something like tracking your personal projects would make no sense. This data is lacking compared to Githubs, but they blow them out of the water with the visuals. A beautiful dashboard, I think some people Leetcode solely for the dashboard.
+Leetcode is the opposite. It's data is domain specific by nature—Leetcode would never track more than Leetcode problems. This data is lacking compared to Githubs, but they blow them out of the water with the visuals. A beautiful dashboard, I think some people Leetcode solely for the dashboard.
 
 ### Code Tracker
-Quantum computing engulfs classical computing by going beyond 0 and 1 using qubits that have states that can be both 0 and 1 at the same time.
-<br><br>Code Tracker engulfs Leetcode and Github by using their API's to get all of their data, while also tracking an even broader form of data—a time-based type of data. Likewise, the visual pleasure of only having the data you care about from the other two, displayed on a beautiful dashboard.
+Quantum computing engulfs classical computing by being able represent 0 and 1, along with a superposition of all states at once.
+<br><br>Code Tracker engulfs Leetcode and Github by using their API's to get all of their data, while also tracking an even broader form of data—__time-based data__. Likewise, the visual pleasure of only having the data you care about from the other two, displayed on a beautiful dashboard.
 
 ## Functionality
 1. **Github and Leetcode stats for a user**
