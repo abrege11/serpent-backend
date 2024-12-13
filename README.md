@@ -1,9 +1,9 @@
-# Code Tracker backend
+# Serpent backend
 
-Code Tracker (better name pending) is an app that I am creating for my senior project at Northern Michigan University for the Winter 2025 semester.
+Serpent is an app that I am creating for my senior project at Northern Michigan University for the Winter 2025 semester.
 
 ## Overview
-The goal of Code Tracker is to be the Strava of programming. It shocks me that no one has made a tracking app for the group of people who create the tracking apps. Programmers—some the most type A people alive, for some reason don't have a cool way of tracking their progress.
+The goal of Serpent is to be the Strava of programming. It shocks me that no one has made a tracking app for the group of people who create the tracking apps. Programmers—some the most type A people alive, for some reason don't have a cool way of tracking their progress.
 
 ## The Vision
 There are two ways that programmers track their progress as of now.
@@ -15,9 +15,9 @@ There are two aspects of tracking, what kind of data you present and how you pre
 ### Leetcode
 Leetcode is the opposite. It's data is domain specific by nature—Leetcode would never track more than Leetcode problems. This data is lacking compared to Githubs, but they blow them out of the water with the visuals. A beautiful dashboard, I think some people Leetcode solely for the dashboard.
 
-### Code Tracker
+### Serpent
 Quantum computing engulfs classical computing by being able represent 0 and 1, along with a superposition of all states at once.
-<br><br>Code Tracker engulfs Leetcode and Github by using their API's to get all of their data, while also tracking an even broader form of data—__time-based data__. Likewise, the visual pleasure of only having the data you care about from the other two, displayed on a beautiful dashboard.
+<br><br>Serpent engulfs Leetcode and Github by using their API's to get all of their data, while also tracking an even broader form of data—__time-based data__. Likewise, the visual pleasure of only having the data you care about from the other two, displayed on a beautiful dashboard.
 
 ## Functionality
 1. **Github and Leetcode stats for a user**
