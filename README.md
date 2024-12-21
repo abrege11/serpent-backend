@@ -38,3 +38,23 @@ Quantum computing engulfs classical computing by being able represent 0 and 1, a
 ## Stack
 I will use Node.js, React.js, MySQL, and probably some laptops I have from home as servers since it's free.
 
+## Mockups
+I have begun designing the potential frontend interface, along with the database structure. Below you can see both.
+
+### Database structure
+![db structure](assets/serpent-database-1.png)
+
+### Login
+![login](assets/serpent-login.png)
+
+### Dashboard
+![dashboard](assets/serpent-dashboard.png)
+
+### Feed
+![feed](assets/serpent-feed.png)
+
+### Preferences
+![preferences](assets/serpent-preferences.png)
+
+### Tracking
+![tracking](assets/serpent-tracking.png)
