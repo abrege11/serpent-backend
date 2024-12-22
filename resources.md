@@ -29,4 +29,20 @@ From there, I watched these youtube videos:
 5. This repo on security of home servers: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 6. Made the ip static: https://www.freecodecamp.org/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/
 
+## Frontend
+
+Again, **ChatGPT** is the first source of information. I just explained exactly what I wanted out of my application, and asked what a complete beginner would have to do to accomplish this goal.
+
+From there, I read through these:
+1. HTML semantic elements: https://www.w3schools.com/html/html5_semantic_elements.asp
+2. CSS basics: https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content
+3. CSS selectors: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors
+4. 
+
+
+## Backend
+
+Yet again I start with **ChatGPT**—you know the drill.
+
+1. Figuring out GitHub's API usage: https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/authenticating-with-a-github-app-on-behalf-of-a-user
 
